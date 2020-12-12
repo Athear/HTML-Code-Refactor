@@ -21,7 +21,7 @@ All changes were made on the [workbook branch](https://github.com/Athear/bootcam
 
 [Main repository](https://github.com/Athear/bootcamp_homework_01_Code_refactor)
 
-Published website
+[Published website](https://athear.github.io/bootcamp_homework_01_Code_refactor/)
 
 
 
